@@ -1,1 +1,3 @@
 this 2 file
+
+this also a stash data in 2 nd file

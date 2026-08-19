@@ -2,3 +2,7 @@ this the 3 rd file
 
 this is my stash data
 i dont want to save or commit this data
+
+above data accidently save data
+this a actual stash data
+refer imp file

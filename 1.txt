@@ -1,2 +1,5 @@
 this 1st file
 this is 2 nd line
+
+
+ths file 1 stash
